@@ -1,4 +1,4 @@
-# 🛡️ GuardianNav
+# 🛡️ Guardian
 > **Assistant de sécurité intelligent à commande vocale**  
 > "Parlez, on s'occupe du reste" - Système d'urgence avec IA Gemini, reconnaissance vocale française et géolocalisation.
 
